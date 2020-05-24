@@ -1,2 +1,2 @@
 # PM2.5-Prediction
-Testing various regression based and time series models to predict PM2.5
+The missing values in the given dataset(DM for details) were completed using autoencoder. Various regression based and time series models were tested to predict PM2.5
